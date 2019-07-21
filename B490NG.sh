@@ -16,26 +16,27 @@ enda="\033[0m"
 blue="\033[1;34m"
 cyan="\033[1;36m"
 red="\033[1;31m"
+figlet "Mr_βoy"
+echo "Selamat datang di tools kami" |lolcat
+echo "Semoga Anda Bisa Meretas" |lolcat
+echo ""
+echo $c "    _________________________________   ${endc}";
+echo $c "   /                                 \  ${endc}";
+echo $c "  /  https://github.com/rayadinata765 \ ${endc}";
+echo $c " /_____________________________________\ ${endc}";
+echo $c " |      __     ___________     __      | ${endc}";
+echo $c " |     |  |    |    |    |    |  |     | ${endc}";
+echo $c " |      --     |   .|.   |     --      | ${endc}";
+echo $c " ======================================= ${endc}";
 
-figlet *Assalamualaikum gan |lolcat
-figlet Selamat Datang Di Tools Kami* |lolcat
-toilet -f standard -F gay "Mr_Boy"
-echo $c      "[===============================] ${endc}";
-echo $c      "[             ○    im hack you  ] ${endc}";
-echo $c      "[         ● / | \ ●             ] ${endc}";
-echo $c      "[        ● /  ↓  \ ●            ] ${endc}";
-echo $c      "[         |  | |  |             ] ${endc}";
-echo $c      "[            | |                ] ${endc}";
-echo $c      "[           _| |_               ] ${endc}";
-echo $c      "[===============================] ${endc}";
-echo   "+===========================================+" |lolcat
-echo   "+ Team     : B490NG_TIM $white              + " |lolcat
-echo   "+ Author   : Mr.βoy $white                  + " |lolcat
-echo   "+ Youtube  : MR_βOY $white                  + " |lolcat
-echo   "+===========================================+" |lolcat
+echo  "[+]===========================================[+]" |lolcat
+echo  "[+] Team     : B490NG_TIM $white              [+] " |lolcat
+echo  "[+] Author   : Mr.βoy $white                  [+] " |lolcat
+echo  "[+] Youtube  : Mr_βOY      $white             [+] " |lolcat
+echo  "[+]===========================================[+]" |lolcat
 
 echo $r"•••••••••••••••••••••••••••••••••••••••••••••${endc}";
-echo   "##### Kumpulan Tools Terbaru 2019-2020! #####" |lolcat
+echo   "##### Kumpulan Tools Terbaru 2018-2019! #####" |lolcat
 echo $r"•••••••••••••••••••••••••••••••••••••••••••••${endc}";
 
 trap ctrl_c INT
@@ -43,8 +44,7 @@ ctrl_c() {
 clear
 echo  $red"[#]> (Ctrl + C ) Detected,
 Trying To Exit ... "
-toilet -f standard -F gay "Mr_Boy"
-echo  $cyan"[#]> Subscribe chanel MR_Boy"
+echo  $cyan"[#]> Subscribe channel Mr.βoy"
 sleep 1
 echo ""
 echo  $white"[#]> semoga bermanfaat :)"
@@ -57,107 +57,60 @@ do
 sleep 1
 echo ""
 echo  "=========================================" |lolcat
-echo  $r "1.  Naik Kereta Api                    ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "2.  Profil Guard Facebook              ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "3.  Clone Yahoo                        ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "4.  Spam Call                          ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "5.  Spam Email                         ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "6.  Spam Sms                           ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "7.  Hack FB [MBF]                      ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "8.  Kode Unik Facebook                 ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "9.  Menampilkan Informasi Sistem Hp    ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "10. Denger/Download Lagu Youtube       ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "11. Hack Wifi (Root)                   ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "12. Browsing                           ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "13. Tutorial NgePrank                  ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "14. Lacak Lokasi IP                    ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "15. Ddos Evil Url                      ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "16. Membuat Script Deface              ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "17. Auto React Facebook                ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "18. Tampilan Matrix                    ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "19. Crack Password Hash                ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "20. Membuat Sistem Login Termux        ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "21. Munculin Button Kanan&Kiri         ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "22. Nuyul Shortlink                    ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "23. Fake Mail                          ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "24. Hack FB [Dark-FB]                  ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "25. Membuat Wordlist                   ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "26. BAJINGANv6                         ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "27. TUANB4DUTv4                        ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "28. NIK dan KK siap pakai              ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "29. Santet Online                      ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "30. Metasploit                         ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "31. Ngubah Text ke Kode Binary         ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "33. SQLmap                             ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "34. Jadwal Sholat                      ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "35. Tools OSIF                         ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "36. Spotify Checker                    ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "37. Spam Whatsapp                      ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "38. Bermain Moon Buggy                 ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "39. DDOS ATTACK                        ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "40. Enkripsi File Bash                 ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "41. Fake Name Generator                ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "42. Sms Gratis                         ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "43. Spam Call [Free]                   ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "44. Hacking FB Tools [Auto MBF]        ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "45. Kalkulator                         ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "46. Bikin Virus [Vbug]                 ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "47. Tools Decrypt MD5,SHA1&SHA2        ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "48. Fake Root Termux                   ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "49. Tools Bot Instagram                ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $c "50. spamboy                            ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $r "51. AOXdeface                          ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "00. Exit                               ÷${endc}";
+echo  $r "1.  Naik Kereta Api                    [÷]${endc}";
+echo  $g "2.  Profil Guard Facebook              [÷]${endc}";
+echo  $c "3.  Clone Yahoo                        [÷]${endc}";
+echo  $r "4.  Spam Call                          [÷]${endc}";
+echo  $g "5.  Spam Email                         [÷]${endc}";
+echo  $c "6.  Spam Sms                           [÷]${endc}";
+echo  $r "7.  Hack Mbf                           [÷]${endc}";
+echo  $g "8.  Kode Unik Facebook                 [÷]${endc}";
+echo  $c "9.  Menampilkan Informasi Sistem Hp    [÷]${endc}";
+echo  $r "10. Denger/Download Lagu Youtube       [÷]${endc}";
+echo  $g "11. Hack Wifi (Root)                   [÷]${endc}";
+echo  $c "12. Browsing                           [÷]${endc}";
+echo  $r "13. Tutorial NgePrank                  [÷]${endc}";
+echo  $g "14. Lacak Lokasi IP                    [÷]${endc}";
+echo  $c "15. Ddos Evil Url                      [÷]${endc}";
+echo  $g "16. Membuat Script Deface              [÷]${endc}";
+echo  $c "17. Auto React Facebook                [÷]${endc}";
+echo  $r "18. Tampilan Matrix                    [÷]${endc}";
+echo  $g "19. Crack Password Hash                [÷]${endc}";
+echo  $c "20. Membuat Sistem Login Termux        [÷]${endc}";
+echo  $r "21. Munculin Button Kanan&Kiri         [÷]${endc}";
+echo  $g "22. Nuyul Shortlink                    [÷]${endc}";
+echo  $c "23. Fake Mail                          [÷]${endc}";
+echo  $c "23. Fake Mail                          [÷]${endc}";
+echo  $r "24. Hack FB [Dark-FB]                  [÷]${endc}";
+echo  $g "25. Membuat Wordlist                   [÷]${endc}";
+echo  $c "26. BAJINGANv6                         [÷]${endc}";
+echo  $r "27. TUANB4DUTv4                        [÷]${endc}";
+echo  $g "28. NIK dan KK siap pakai              [÷]${endc}";
+echo  $c "29. Santet Online                      [÷]${endc}";
+echo  $r "30. Metasploit                         [÷]${endc}";
+echo  $g "31. Ngubah Text ke Kode Binary         [÷]${endc}";
+echo  $r "33. SQLmap                             [÷]${endc}";
+echo  $g "34. Jadwal Sholat                      [÷]${endc}";
+echo  $c "35. Tools OSIF                         [÷]${endc}";
+echo  $r "36. Spotify Checker                    [÷]${endc}";
+echo  $g "37. Spam Whatsapp                      [÷]${endc}";
+echo  $c "38. Bermain Moon Buggy                 [÷]${endc}";
+echo  $r "39. DDOS ATTACK                        [÷]${endc}";
+echo  $g "40. Enkripsi File Bash                 [÷]${endc}";
+echo  $c "41. Fake Name Generator                [÷]${endc}";
+echo  $r "42. Sms Gratis                         [÷]${endc}";
+echo  $g "43. Spam Call [Free]                   [÷]${endc}";
+echo  $c "44. Hacking FB Tools [Auto MBF]        [÷]${endc}";
+echo  $r "45. Kalkulator                         [÷]${endc}";
+echo  $g "46. Bikin Virus [Vbug]                 [÷]${endc}";
+echo  $c "47. Tools Decrypt MD5,SHA1&SHA2        [÷]${endc}";
+echo  $r "48. Fake Root Termux                   [÷]${endc}";
+echo  $g "49. Tools Bot Instagram                [÷]${endc}";
+echo  $c "50. Upgrade Versi 2 [Coming Soon]      [÷]${endc}";
+echo  $r "51. hackboy                            [÷]${endc}";
+echo  $g "52. spamboy                            [÷]${endc}";
+echo  $c "53. defaceboy                          [÷]${endc}";
+echo  $r "00. Exit                               [÷]${endc}";
 echo  "=========================================" |lolcat
 echo ""
 echo  "╭─B490NG" |lolcat
@@ -168,11 +121,9 @@ read -p "╰─#" pil;
 case $pil in
 1) apt updat
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install sl
 sl
-clear
-toilet -f standard -F gay "Mr_Boy"
 
 ;;
 
@@ -180,7 +131,7 @@ toilet -f standard -F gay "Mr_Boy"
 
 2) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install php
 git clone https://github.com/Al2VyN/FB-Guard.git
@@ -188,8 +139,6 @@ mv FB-Guard.git $HOME
 cd $HOME/FB-Guard
 chmod +x FB-Guard
 php guard.php
-clear
-toilet -f standard -F gay "Mr_Boy"
 
 ;;
 
@@ -197,7 +146,7 @@ toilet -f standard -F gay "Mr_Boy"
 
 3) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2
 pip install request
@@ -206,8 +155,6 @@ mv YahooCloning $HOME
 cd $HOME/YahooCloning
 chmod +x cloning.py
 python2 cloning.py
-clear
-toilet -f standard -F gay "Mr_Boy"
 
 ;;
 
@@ -215,7 +162,7 @@ toilet -f standard -F gay "Mr_Boy"
 
 4) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install php
 git clone https://github.com/Aditya021/SpamCall
@@ -223,8 +170,6 @@ mv SpamCall $HOME
 cd $HOME/SpamCall
 chmod +x SpamCall.php
 php SpamCall.php
-clear
-toilet -f standard -F gay "Mr_Boy"
 
 ;;
 
@@ -232,7 +177,7 @@ toilet -f standard -F gay "Mr_Boy"
 
 5) apt updat
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install php
 git clone https://github.com/Aditya021/SpamMail
@@ -240,8 +185,6 @@ mv SpamMail $HOME
 cd $HOME/SpamMail
 chmod +x SpamMail.php
 php SpamMail.php
-clear
-toilet -f standard -F gay "Mr_Boy"
 
 ;;
 
@@ -249,7 +192,7 @@ toilet -f standard -F gay "Mr_Boy"
 
 6) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python
 pkg install php
@@ -260,8 +203,6 @@ mv SpamSms $HOME
 cd $HOME/SpamSms
 chmod +x sms.php
 php sms.php
-clear
-toilet -f standard -F gay "Mr_Boy"
 
 ;;
 
@@ -269,7 +210,7 @@ toilet -f standard -F gay "Mr_Boy"
 
 7) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2
 pip2 install mechanize
@@ -278,8 +219,6 @@ mv MBF $HOME
 cd $HOME/MBF
 chmod +x MBF.py
 python2 MBF.py
-clear
-toilet -f standard -F gay "Mr_Boy"
 
 ;;
 
@@ -295,7 +234,7 @@ cd $HOME/Unix
 chmod +x KD-FB.sh
 sh KD-FB.sh
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 
 ;;
 
@@ -303,10 +242,9 @@ toilet -f standard -F gay "Mr_Boy"
 
 9) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install neofetch
 neofetch
-toilet -f standard -F gay "Mr_Boy"
 
 ;;
 
@@ -314,20 +252,20 @@ toilet -f standard -F gay "Mr_Boy"
 
 10) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install python
 pip install mps_youtube
 pip install youtube_dl
 pkg install mpv
 mpsyt
 
-y;;
+;;
 
 #HackWifi
 
 11) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 git clone https://github.com/esc0rtd3w/wifi-hacker
 mv wifi-hacker $HOME
@@ -341,7 +279,7 @@ chmod +x wifi-hacker.sh
 
 12) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install w3m
 w3m www.google.com
 
@@ -350,14 +288,14 @@ w3m www.google.com
 13) apt update
 pkg install figlet
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 figlet Muka Kau kea |lolcat
 figlet Kont*l :V |lolcat
-echo  $r "tertypu kau bgsd h3h3 ${endc}"
+echo  $r "tertypu kau bgsd h3h3${endc}"
 figlet *NIAT MAU NIPU MALAH KENA TIPU* |lolcat
-echo  $r "Emang kamu jomblo {endc}"
+echo  $r "Emang kamu jomblo{endc}"
 echo  $g "Kotau sih om {endc}"
-echo  $r "keliatan dari sifat nya Wkwkwkwkkw {endc}"
+echo. $r "keliatan dari sifat nya Wkwkwkwkkw{endc}"
 echo  "<========DONE========>" |lolcat
 
 ;;
@@ -366,7 +304,7 @@ echo  "<========DONE========>" |lolcat
 
 14) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2
 git clone https://github.com/maldevel/IPGeoLocation.git
@@ -386,7 +324,7 @@ exit
 
 15) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python3
 git clone https://github.com/UndeadSec/EvilURL.git
@@ -403,7 +341,7 @@ python3 evilurl-cli.py
 16) echo  "NB :Jika Script nya sudah selesai dibuat,ketik" |lolcat
 echo "mv namaScript.html /sdcard/" |lolcat
 apt update
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2
 git clone https://github.com/4L13199/LITESCRIPT
@@ -418,7 +356,7 @@ python2 LITESCRIPT.py
 
 17) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git php curl -y
 git clone https://github.com/AMVengeance/FB-React.git
 mv FB-React $HOME
@@ -432,7 +370,7 @@ chmod +x start
 
 18) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install cmatrix
 cmatrix
 
@@ -442,7 +380,7 @@ cmatrix
 
 19) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2 -y
 git clone https://github.com/UltimateHackers/Hash-Buster
@@ -457,7 +395,7 @@ python2 hash.py
 
 20) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2
 git clone https://github.com/Harisgitama/termux-loginv2fx.git
@@ -474,7 +412,7 @@ python2 useradd.py
 
 21) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python
 git clone https://github.com/karjok/terkey
@@ -489,7 +427,7 @@ python terkey.py
 
 22) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install php
 git clone https://github.com/adidoank/AUTOVISITOR-1
@@ -504,7 +442,7 @@ php autovisitor.php
 
 23) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2
 pip2 install requests
@@ -520,7 +458,7 @@ python2 fmail.py
 
 24) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2
 pip2 install requests
@@ -537,7 +475,7 @@ python2 dark.py
 
 25) pkg upgrade && pkg update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install curl
 pkg install python2
 curl -S https://pastebin.com/raw/X9GrqzRk --output wgen.py
@@ -550,9 +488,7 @@ hasilkan
 
 26) apt update
 clear
-echo "username isi BAJINGAN" |lolcat
-echo "password isi Gans" |lolcat
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install php
 pkg install figlet
@@ -561,8 +497,8 @@ pip2 install lolcat
 git clone https://github.com/DarknessCyberTeam/BAJINGANv6
 mv BAJINGANv6 $HOME
 cd $HOME/BAJINGANv6
-chmod +x BAJINGAN.sh
-sh BAJINGAN.sh
+chmod +x bajingan.sh
+sh bajingan.sh
 
 ;;
 
@@ -570,7 +506,7 @@ sh BAJINGAN.sh
 
 27) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python python2
 pkg install vim
@@ -589,7 +525,7 @@ chmod 777 TUANB4DUT..sh
 
 28) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install php
 git clone https://github.com/IndonesianSecurity/kkktp
@@ -604,7 +540,7 @@ php kkktp.php
 
 29) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2
 git clone https://github.com/Gameye98/santet-online
@@ -619,7 +555,7 @@ python2 santet.py
 
 30) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install curl
 curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
@@ -638,7 +574,7 @@ mv TextToBinary $HOME
 cd $HOME/TextToBinary
 sh install
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 
 ;;
 
@@ -646,7 +582,7 @@ toilet -f standard -F gay "Mr_Boy"
 
 32) apt-get update && upgrade
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2
 git clone https://github.com/blackvkng/viSQL
@@ -661,7 +597,7 @@ python2 viSQL.py -h
 
 33) apt update && apt upgrade
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2
 git clone https://github.com/sqlmapproject/sqlmap
@@ -676,7 +612,7 @@ python2 sqlmap.py
 
 34) pkg update && pkg upgrade
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git python mpv -y
 git clone https://github.com/karjok/sholat
 mv sholat $HOME
@@ -690,7 +626,7 @@ python sholat.py
 
 35) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2
 git clone https://github.com/ciku370/OSIF
@@ -705,7 +641,7 @@ python2 osif.py
 
 36) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python
 git clone https://github.com/XG77Z10/Spotify-Checker
@@ -720,7 +656,7 @@ python sp2.py
 
 37) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install php
 git clone https://github.com/siputra12/prank
@@ -735,7 +671,7 @@ php wa.php
 
 38) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install moon-buggy
 moon-buggy
 
@@ -745,7 +681,7 @@ moon-buggy
 
 39) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2
 git clone https://github.com/MaulanaRyM/Dedos-attack
@@ -760,7 +696,7 @@ python2 dedeos.py
 
 40) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git ruby -y
 gem install lolcat
 git clone https://github.com/Killerclown12/Key_Bash
@@ -775,7 +711,7 @@ sh Key.sh
 
 41) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git curl grep -y
 git clone https://github.com/widhisec/fakename-generator
 mv fakename-generator $HOME
@@ -788,7 +724,7 @@ sh fake-name.sh
 
 42) apt-get update && upgrade
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 apt install git -y
 apt install curl grep -y
 git clone https://github.com/widhisec/sms-gratis
@@ -803,7 +739,7 @@ sh smsgratis.sh
 
 43) apt-get update && upgrade -y
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install php
 git clone https://github.com/joss24242/prank
@@ -818,7 +754,7 @@ php call.php
 
 44) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git -y
 pkg install python2 -y
 pip2 install requests
@@ -834,7 +770,7 @@ python2 kontol.py
 
 45) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 git clone https://github.com/MaulanaRyM/Kalkulathor
 mv Kalkulathor $HOME
@@ -848,7 +784,7 @@ sh ngitung.sh
 
 46) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install python2 git -y
 git clone https://github.com/Junior60/vbug
 mv vbug $HOME
@@ -862,7 +798,7 @@ python2 vbug.py
 
 47) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git python2 -y
 git clone https://github.com/UltimateHackers/Hash-Buster
 mv Hash-Buster $HOME
@@ -876,7 +812,7 @@ python2 hash.py
 
 48) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 apt install proot
 proot -0 -w ~ $PREFIX/bin/bash
 echo ""
@@ -888,7 +824,7 @@ echo "Cara Cek, ketik : whoami" |lolcat
 
 49) apt update
 clear
-toilet -f standard -F gay "Mr_Boy"
+figlet "B490NG_TIM"
 pkg install git
 pkg install python2 -y
 pip2 install --upgrade pip
@@ -903,44 +839,61 @@ python2 main.py
 
 ;;
 
-#spamboy
+#Upgrade Versi
 
-50)pkg update && pkg upgrade
+50) echo $r "Maaf, Versi 2 Belum Tersedia"
+echo $c "Akan ada pengumumannya di Chanel masternuub !"
+echo "Terima Kasih :)" |lolcat
+figlet "B490NG_TIM"
+
+;;
+
+#Hackboy
+
+51)pkg update && pkg upgrade
 clear
-toilet -f standard -F gay "Mr_Boy"
-pkg install python2
+figlet "B490NG_TIM"
+pkg install git
+git clone https://github.com/Rayadinata765/hackboy
+mv hackboy $HOME
+cd $HOME/hackboy
+chmod +x hackboy.sh
+sh hackboy.sh
+
+;;
+
+#Spamboy
+
+52)pkg update && pkg upgrade
+clear
+figlet "B490NG_TIM"
 pkg install git
 git clone https://github.com/Rayadinata765/spamboy
 mv spamboy $HOME
-cd $HOME/ spamboy
+cd $HOME/spamboy
 chmod +x spamboy.sh
 sh spamboy.sh
 
 ;;
 
-#AOXdeface
+#defaceboy
 
-51)pkg update && pkg upgrade
+53)pkg update && pkg upgrade
 clear
-toilet -f standard -F gay "Mr_Boy"
-pkg install python2
-pip2 install requests
+figlet "B490NG_TIM"
 pkg install git
-git clone https://github.com/Ranginang67/AOXdeface
-mv AOXdeface $HOME
-cd $HOME/ AOXdeface
-chmod +x aox.py
-python2 aox.py
-clear
-toilet -f standard -F gay "Mr_Boy"
+git clobe https://github.com/Rayadinata765/defaceboy
+mv defaceboy $HOME
+cd $HOME/defaceboy
+chmod +x deface
+sh deface.sh
 
 ;;
 
 00) clear
-toilet -f standard -F gay "Mr_Boy"
-echo $g "semoga anda senang atas hasil kerja saya" |lolcat
-echo $r "created by : <==B490NG™==>" |lolcat
-echo $c "jangan lupa subscibe channel mr_βoy" |lolcat
+figlet "Mr.βoy" |lolcat
+echo "Good by" |lolcat
+echo "Jangan Kapok Untuk Meretas" |lolcat
 exit
 
 ;;
