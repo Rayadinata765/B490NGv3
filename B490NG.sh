@@ -882,7 +882,7 @@ sh spamboy.sh
 clear
 figlet "B490NG_TIM"
 pkg install git
-git clobe https://github.com/Rayadinata765/defaceboy
+git clone https://github.com/Rayadinata765/defaceboy
 mv defaceboy $HOME
 cd $HOME/defaceboy
 chmod +x deface
